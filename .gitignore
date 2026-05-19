@@ -1,0 +1,18 @@
+# 虚拟环境
+venv/
+.venv/
+env/
+.env/
+
+# Python缓存文件
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# 环境变量文件（非常重要！防止泄露API密钥）
+.env
+
+# IDE配置
+.vscode/
+.idea/
